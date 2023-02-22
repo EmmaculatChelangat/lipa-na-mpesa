@@ -45,3 +45,9 @@ function App() {
 }
 
 export default App
+
+
+// installation process
+// npm i
+// npm start- server
+// npm run dev -- client
