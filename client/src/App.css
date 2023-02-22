@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.App{
+
+  /* background: gray; */
+  margin-left: 300px;
+  border: 1px dotted;
+
+}
+span{
+  color: green;
+  font-weight: 600;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  /* width: 40%; */
+  /* margin: 15%; */
+}
+.box{
+  /* background: slategray; */
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px 0px;
+}
+.pay{
+  border-radius: 20px;
+  padding: 2px 0px; 
+  background: green;
+  color: white;
+}
